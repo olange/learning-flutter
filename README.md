@@ -4,9 +4,10 @@ Learning using ‹Subject› – articles, useful resources, courseware, persona
 
 ## Overview
 
-## Learning / Codelabs
+## Learning & Codelabs
 
-TODO
+* [Codelab ‹Write Your First Flutter App›](https://github.com/olange/learning-flutter/issues/1)  
+  GDG Fribourg · Flutter Study Jam · 15.11.2019
 
 ## Experiments
 
