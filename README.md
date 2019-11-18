@@ -1,6 +1,6 @@
-# Learning ‹Subject›
+# Learning Flutter & Dart
 
-Learning using ‹Subject› – articles, useful resources, courseware, personal notes.
+Learning using Flutter & Dart – articles, useful resources, courseware, personal notes.
 
 ## Overview
 
