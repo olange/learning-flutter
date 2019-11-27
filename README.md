@@ -2,6 +2,10 @@
 
 Learning using Flutter & Dart – articles, useful resources, courseware, personal notes.
 
+## Getting started
+
+* [Get Dart SDK](https://dart.dev/get-dart) _includes `dart2native` compiler producing self-contained binary executables_
+
 ## Community events
 
 * [GDG Fribourg · Flutter Study Jam · 15.11.2019](community/20191115-flutter-study-jam/README.md)
