@@ -8,7 +8,8 @@ Learning using Flutter & Dart – articles, useful resources, courseware, person
 
 ## Community events
 
-* [GDG Fribourg · Flutter Study Jam · 15.11.2019](community/20191115-flutter-study-jam/README.md)
+* [Flutter Study Jam · 15.11.2019](community/20191115-flutter-study-jam/README.md)  
+  hosted by GDG Fribourg, instructed by Katarina Sheremet
 
 ## Learning & Codelabs
 
