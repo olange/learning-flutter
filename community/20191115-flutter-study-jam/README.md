@@ -14,9 +14,9 @@ https://www.meetup.com/fr-FR/GDGFribourg/events/265514515/
 
 ## Learning resources
 
-* flutter.dev
-* App Brewery courses
-* codelabs.developers.google.com (or google.dev)
+* [flutter.dev](https://flutter.dev)
+* [The App Brewery](https://www.appbrewery.co/courses/enrolled/548873) courses
+* [codelabs.developers.google.com](https://codelabs.developers.google.com) (or google.dev)
 * Widget of the week
 * Boring shows :)
 * Google I/O
